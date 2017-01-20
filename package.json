@@ -1,0 +1,28 @@
+{
+  "name": "nightwatch-prop-type-warnings",
+  "version": "1.0.0",
+  "description": "Custom nightwatch test that fails when a React app raises PropType warnings",
+  "main": "assertions/noPropTypeWarning.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/helintel/nightwatch-prop-type-warnings.git"
+  },
+  "keywords": [
+    "nightwatch",
+    "react",
+    "props",
+    "warnings"
+  ],
+  "author": "Evan Wang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/helintel/nightwatch-prop-type-warnings/issues"
+  },
+  "homepage": "https://github.com/helintel/nightwatch-prop-type-warnings#readme",
+  "devDependencies": {
+    "nightwatch": "^0.9.12"
+  }
+}
